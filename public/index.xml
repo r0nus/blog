@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The r0nus Blog</title>
+    <link>http://r0nus.github.io/</link>
+    <description>Recent content on The r0nus Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 01:03:41 +0530</lastBuildDate>
+    
+	<atom:link href="http://r0nus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://r0nus.github.io/post/test/</link>
+      <pubDate>Sat, 15 May 2021 01:03:41 +0530</pubDate>
+      
+      <guid>http://r0nus.github.io/post/test/</guid>
+      <description>Gist markdown examples A collection of Markdown code and tricks that were tested to work in Gist.
+This and all public gists in https://gist.github.com/ww9 are Public Domain. Do whatever you want with it including , no need to credit me.
+Todo  Reformat this whole document and assimilate these:  https://gist.github.com/jonschlinkert/5854601 https://gist.github.com/ringmatthew/9f7bbfd102003963f9be7dbcf7d40e51 https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d https://gist.github.com/haydenk/958b433ee107537bb166b98b59262b2a https://gist.github.com/asabaylus/3071099 https://gist.github.com/t-nissie/9580883 (Add images, secret gists, anti-spam protection) https://guides.github.com/features/mastering-markdown/ https://gist.github.com/cyhsutw/d5983d166fb70ff651f027b2aa56ee4e#file-mathjax-ipynb (Python notebook, Math syntax)    Table of Contents Headers Emphasis Lists Links Images Code and Syntax Highlighting Tables Blockquotes Inline HTML Horizontal Rule Line Breaks YouTube Videos TeX Mathematical Formulae</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>http://r0nus.github.io/post/helloworld/</link>
+      <pubDate>Sat, 15 May 2021 00:50:40 +0530</pubDate>
+      
+      <guid>http://r0nus.github.io/post/helloworld/</guid>
+      <description>#include &amp;lt;iostream&amp;gt;using namespace std; int main(int argc, char const *argv[]) { char arr[17] = &amp;#34;abcdefghijklmnop&amp;#34;; int t; cin &amp;gt;&amp;gt; t; for (int i = 0; i &amp;lt; t; i++) { int n, p = 0; cin &amp;gt;&amp;gt; n; char s[n + 1]; cin &amp;gt;&amp;gt; s; for (int j = 0; j &amp;lt; n / 4; j++) { int k = 0, s = 0, e = 15, z; while (k &amp;lt; 4) { int mid = s + e / 2; if (s[p] == &amp;#39;0&amp;#39;) { e = mid + 1; } else { s = mid + 1; } z = mid; k++; p++; } cout &amp;lt;&amp;lt; arr[z]; } cout &amp;lt;&amp;lt; endl; } return 0; } </description>
+    </item>
+    
+  </channel>
+</rss>
