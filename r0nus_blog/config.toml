@@ -2,3 +2,6 @@ baseURL = "http://r0nus.github.io/"
 languageCode = "en-us"
 title = "The r0nus Blog"
 theme="anatole"
+
+[params]
+doNotLoadAnimations = true 
