@@ -2,3 +2,8 @@
 ; 	path = r0nus_blog/public
 ; 	url = https://github.com/r0nus/r0nus.github.io
 ; 	branch = main
+;
+[submodule "r0nus_blog/themes/anatole"]
+	path = r0nus_blog/themes/anatole
+	url = https://github.com/lxndrblz/anatole
+	branch = master
