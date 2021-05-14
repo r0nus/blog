@@ -1,0 +1,4 @@
+[submodule "r0nus_blog/public"]
+	path = r0nus_blog/public
+	url = git@github.com:r0nus/r0nus.github.io.git
+	branch = main
