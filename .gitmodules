@@ -1,4 +1,7 @@
 [submodule "r0nus_blog/public"]
 	path = r0nus_blog/public
-	url = git@github.com:r0nus/r0nus.github.io.git
+	url = https://github.com:r0nus/r0nus.github.io.git
 	branch = main
+[submodule "r0nus_blog/themes/hugo-theme-terminal"]
+	path = r0nus_blog/themes/hugo-theme-terminal
+	url = https://github.com:panr/hugo-theme-terminal.git

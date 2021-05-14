@@ -1,7 +1,24 @@
 baseURL = "http://r0nus.github.io/"
 languageCode = "en-us"
 title = "The r0nus Blog"
-theme="anatole"
+theme="terminal"
 
 [params]
 doNotLoadAnimations = true 
+
+googleAnalytics = "G-Z6JGW7HN6D"
+
+
+
+enableMediumZoom = false
+
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+[params]
+  images = ["images/site-feature-image.png"]
+
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
