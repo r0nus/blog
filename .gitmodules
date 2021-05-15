@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:r0nus/r0nus.github.io.git
 	branch = main
+[submodule "content/english"]
+	path = content/english
+	url = git@github.com:r0nus/r0nus.git
