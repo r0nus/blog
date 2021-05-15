@@ -1,9 +1,7 @@
-; [submodule "r0nus_blog/public"]
-; 	path = r0nus_blog/public
-; 	url = https://github.com/r0nus/r0nus.github.io
-; 	branch = main
-;
-[submodule "r0nus_blog/themes/anatole"]
-	path = r0nus_blog/themes/anatole
-	url = https://github.com/lxndrblz/anatole
-	branch = master
+[submodule "r0nus_blog/public"]
+	path = r0nus_blog/public
+	url = @github.com:r0nus/r0nus.github.io
+	branch = main
+[submodule "r0nus_blog/themes/github-style"]
+	path = r0nus_blog/themes/github-style
+	url = git@github.com:MeiK2333/github-style.git
