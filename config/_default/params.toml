@@ -5,7 +5,8 @@ author = "Umang Bhalla"
 description = """
 Blogging from home
 """
-profilePicture = "https://avatars.githubusercontent.com/u/67634565?v=4"
+
+profilePicture = "images/logo.png"
 keywords = ""
 favicon = "favicons/"
 displayMode = "dark"
